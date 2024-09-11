@@ -1,0 +1,2 @@
+#!/bin/bash
+python stablediffusion/scripts/demo.py --prompt "\$1" --ckpt stablediffusion/checkpoints/linearIcon_v20.safetensors --config stablediffusion/configs/stable-diffusion/v2-inference-v.yaml --H 512 --W 512 --device cuda
