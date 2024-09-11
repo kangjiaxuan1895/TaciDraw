@@ -1,2 +1,1 @@
-# TaciDraw
 # Implementation of TaciDraw
