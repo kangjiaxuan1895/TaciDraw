@@ -22,9 +22,3 @@ This project uses third-party code from the Stable Diffusion repository. Any con
 
 ### Usage Restrictions
 As this project incorporates the Stable Diffusion model, any generated content must adhere to the usage restrictions outlined in the [CreativeML Open RAIL-M License](https://github.com/Stability-AI/stablediffusion/blob/main/LICENSE). These restrictions include, but are not limited to, prohibiting the use of the model for any harmful, unethical, or illegal purposes, such as generating false information, exploiting minors, or infringing on the rights of others.
-
-### How to Use
-1. Clone the repository.
-2. Follow the installation instructions provided in the documentation to set up your environment.
-3. Refer to the examples in the `scripts/` directory for generating both vivid and tactile images using natural language prompts.
-4. Ensure that you comply with all license terms when using this project.
